@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d4f956-21fd-4303-b64b-ab753123ea83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Dash-api-assembler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json-conf-interpretor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test-api-assembler-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test-json-interpretor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test-source-json.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ccBwcHt6Tvi87zAmzhSVFIwYLP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dash-node-demo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test-json-interpretor.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/test/test-json-interpretor.js" working-dir="$PROJECT_DIR$/test">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.test-json-interpretor.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d4f956-21fd-4303-b64b-ab753123ea83" name="Default Changelist" comment="" />
+      <created>1590818240159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590818240159</updated>
+      <workItem from="1590818241443" duration="9032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1563" y="220" key="FileChooserDialogImpl" timestamp="1590829239529">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1563" y="220" key="FileChooserDialogImpl/0.0.2560.1040@0.0.2560.1040" timestamp="1590829239529" />
+    <state width="1339" height="404" key="GridCell.Tab.0.bottom" timestamp="1590854567781">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1339" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1590854567781" />
+    <state width="1339" height="404" key="GridCell.Tab.0.center" timestamp="1590854567781">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1339" height="404" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1590854567781" />
+    <state width="1339" height="404" key="GridCell.Tab.0.left" timestamp="1590854567781">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1339" height="404" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1590854567781" />
+    <state width="1339" height="404" key="GridCell.Tab.0.right" timestamp="1590854567781">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1339" height="404" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1590854567781" />
+    <state x="1412" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1590841412245">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1412" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1590841412245" />
+  </component>
+</project>
